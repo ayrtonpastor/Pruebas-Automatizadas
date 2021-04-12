@@ -7,27 +7,27 @@ assignees: ''
 
 ---
 
-**Describe the bug**
+**Descripción del bug**
 A clear and concise description of what the bug is.
 
-**To Reproduce**
+**Reproduccion**
 Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+1. Ir a '...'
+2. Clic en '....'
+3. Bajar hasta '....'
+4. Mirar error
 
-**Expected behavior**
+**Comportamiento esperado**
 A clear and concise description of what you expected to happen.
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**Environment (please complete the following information):**
+**Entorno:**
  - Device: [e.g. iPhone6]
  - OS: [e.g. iOS8.1]
  - Browser [e.g. stock browser, safari]
  - Version [e.g. 22]
 
-**Additional context**
+**Contexto adicional**
 Add any other context about the problem here.
